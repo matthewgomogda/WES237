@@ -12,23 +12,6 @@ This lab assignment focuses on exploring the GPIO functionality of the PYNQ-Z2 b
 
 ---
 
-## Objectives
-
-1. **GPIO Manipulation**: 
-   - Learn to control GPIO pins for output (e.g., LEDs) and input (e.g., buttons) using both MicroBlaze C code and Python.
-   - Understand how to send and receive data over GPIO using bit-level control.
-
-2. **PL and PS Roles**: 
-   - Differentiate between the responsibilities of the PL (peripheral control) and PS (communication protocols like UART, SPI, and I2C).
-
-3. **Interfacing PMODs**: 
-   - Explore PMOD header control for hardware communication.
-
-4. **Custom Code**: 
-   - Develop and test code for sending 2-bit data using GPIO and verifying the data flow between connected pins.
-
----
-
 ## Key Learnings
 
 - The PL primarily controls peripherals like LEDs, buttons, switches, and PMOD headers, while the PS handles high-level communication protocols.
