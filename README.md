@@ -43,25 +43,6 @@ One aspect that remains unclear is the precise communication mechanism between t
 
 ---
 
-## How to Run the Code
-
-1. **MicroBlaze C Code**:
-   - Use the `%%microblaze` magic command to execute low-level C code on the MicroBlaze processor for GPIO operations.
-   - Ensure the `base` overlay is loaded before running any MicroBlaze code.
-
-2. **Python Code**:
-   - Load the `base` overlay using:
-     ```python
-     from pynq.overlays.base import BaseOverlay
-     base = BaseOverlay("base.bit")
-     ```
-   - Use Python scripts to control GPIO for higher-level tasks like sending and receiving 2-bit data.
-
-3. **Hardware Setup**:
-   - Connect GPIO pins as required (e.g., Pin 0 to Pin 2, Pin 1 to Pin 3) to test data flow between sending and receiving pins.
-
----
-
 ## Contact
 For questions or feedback, feel free to contact me at:
 
