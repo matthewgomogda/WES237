@@ -14,6 +14,8 @@ This lab assignment focuses on exploring the GPIO functionality of the PYNQ-Z2 b
 
 ## Contact
 
+For questions or feedback, feel free to contact me at:
+
 - **Personal Email**: [matthewgomogda@gmail.com](mailto:matthewgomogda@gmail.com)
 - **Student Email**: [mgomogda@ucsd.edu](mailto:mgomogda@ucsd.edu)
 
