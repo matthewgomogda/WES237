@@ -37,12 +37,6 @@ This lab assignment focuses on exploring the GPIO functionality of the PYNQ-Z2 b
 
 ---
 
-## Issues Encountered
-
-One aspect that remains unclear is the precise communication mechanism between the PS and PL, particularly how the AXI interface facilitates data transfer. This understanding is crucial for designing more efficient systems using the PYNQ platform.
-
----
-
 ## Contact
 For questions or feedback, feel free to contact me at:
 
