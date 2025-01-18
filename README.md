@@ -1,4 +1,4 @@
-# Lab Assignment: GPIO Control and PYNQ-Z2 Exploration
+# Lab Assignment: GPIO Control and PYNQ-Z2
 
 **Author**: Matthew Gomogda  
 **Email**: matthewgomogda@gmail.com  
