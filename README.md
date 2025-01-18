@@ -12,16 +12,7 @@ This lab assignment focuses on exploring the GPIO functionality of the PYNQ-Z2 b
 
 ---
 
-## Key Learnings
-
-- The PL primarily controls peripherals like LEDs, buttons, switches, and PMOD headers, while the PS handles high-level communication protocols.
-- GPIO operations, such as reading and writing pin values, can be implemented both in MicroBlaze C code and Python.
-- The PYNQ-Z2 board provides a unique blend of FPGA configurability and ARM-based processing, allowing for efficient peripheral management.
-
----
-
 ## Contact
-For questions or feedback, feel free to contact me at:
 
 - **Personal Email**: [matthewgomogda@gmail.com](mailto:matthewgomogda@gmail.com)
 - **Student Email**: [mgomogda@ucsd.edu](mailto:mgomogda@ucsd.edu)
